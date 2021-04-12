@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\bin\Debug\net5.0\DictionarySortTask.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\bin\Debug\net5.0\DictionarySortTask.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\bin\Debug\net5.0\DictionarySortTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\bin\Debug\net5.0\DictionarySortTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\bin\Debug\net5.0\DictionarySortTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\bin\Debug\net5.0\ref\DictionarySortTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\bin\Debug\net5.0\DictionarySortTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\ref\DictionarySortTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\Collection-LabTask\DictionarySortTask\obj\Debug\net5.0\DictionarySortTask.genruntimeconfig.cache
