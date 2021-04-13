@@ -31,7 +31,7 @@ namespace DictionarySortTask
             Console.Write("Name \t\t\t Department\n");
            
 
-            if(promotionListArr.ContainsKey("Andrew Stephan"))
+            if(promotionListArr.ContainsValue("Graphics"))
             {
                 promotionListArr.Remove("Andrew Stephan");
             }
